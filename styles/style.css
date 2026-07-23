@@ -162,7 +162,7 @@ body{
 }
 #contactme {
   margin-top: 40px;
-  background-image: url("/capstone\ projects/images/image.png");
+  background-image: url("../images/image.png");
   background-color: #cccccc;
   color: white;
   font-family: "Times New Roman",serif,cursive;
